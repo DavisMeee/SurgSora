@@ -1,4 +1,14 @@
-# Object-Aware Diffusion Model for Controllable Surgical Video Generation（SurgSora）
+<div align="center">
+<samp>
+  
+<h1> Object-Aware Diffusion Model for Controllable Surgical Video Generation </h1>
+<h3>（SurgSora）<h3>
+
+<h4> <b>Tong Chen†*, Shuya Yang†, Junyi Wang†</b>, Long Bai*, Hongliang Ren, and Luping Zhou </h3>
+
+<h4> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 </h3>
+</samp>
+# 
 
 ## Environment Setup
 
