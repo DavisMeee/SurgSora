@@ -8,7 +8,8 @@
 
 <h4> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 </h3>
 </samp>
-| **[[```arXiv```](<https://arxiv.org/abs/2412.14018>)]** | **Official Version (Up coming)** |
+
+| **[[```arXiv```](<https://arxiv.org/abs/2412.14018>)]** | **Official Version(Up coming)** |
 |:-------------------:|:-------------------:|
 
 
