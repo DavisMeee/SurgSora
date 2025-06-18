@@ -1,4 +1,4 @@
-# Object-Aware Diffusion Model for Controllable Surgical Video Generation （SurgSora）
+# Object-Aware Diffusion Model for Controllable Surgical Video Generation（SurgSora）
 
 ## Environment Setup
 
