@@ -2,7 +2,7 @@
 <samp>
   
 <h1> Object-Aware Diffusion Model for Controllable Surgical Video Generation </h1>
-<h3>（SurgSora）<h3>
+<h1>（SurgSora）<h1>
 
 <h4> <b>Tong Chen†*, Shuya Yang†, Junyi Wang†</b>, Long Bai*, Hongliang Ren, and Luping Zhou </h3>
 
