@@ -8,7 +8,6 @@
 
 <h4> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 </h3>
 </samp>
-# 
 
 ## Environment Setup
 
