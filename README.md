@@ -1,4 +1,4 @@
-# SurgSora Demo (MICCAI Submission #811)
+# Object-Aware Diffusion Model for Controllable Surgical Video Generation （SurgSora）
 
 ## Environment Setup
 
