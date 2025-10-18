@@ -17,7 +17,9 @@
 
 ## Update
 ```
-Oct/2025: 🔥🔥🔥Training Code Released!🔥🔥🔥
+Oct/2025: 📢📢📢 Training Code Released!
+Jul/2025: 🎉🎉🎉 Our Work has been accepted by MICCAI 2025!
+Apr/2025: 🔥🔥🔥 SurgSora Gradio is online!
 ```
 
 ## Environment Setup
