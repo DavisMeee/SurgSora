@@ -14,6 +14,11 @@
 
 
 </div>     
+## Update
+```
+🔥🔥🔥Training Code Released!🔥🔥🔥
+```
+
 ## Environment Setup
 
 `pip install -r requirements.txt`
