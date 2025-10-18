@@ -14,9 +14,10 @@
 
 
 </div>     
+
 ## Update
 ```
-🔥🔥🔥Training Code Released!🔥🔥🔥
+Oct/2025: 🔥🔥🔥Training Code Released!🔥🔥🔥
 ```
 
 ## Environment Setup
