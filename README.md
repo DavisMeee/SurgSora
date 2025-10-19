@@ -15,7 +15,9 @@
 
 </div>     
 
-![Demo](demo/traj.gif)
+<p align="center">
+  <img src="demo/traj.gif" alt="Demo" width="640">
+</p>
 
 ## Update
 
