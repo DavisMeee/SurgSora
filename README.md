@@ -15,7 +15,7 @@
 
 </div>     
 
-![Demo](demo/traj.mp4)
+![Demo](demo/traj.gif)
 
 ## Update
 
