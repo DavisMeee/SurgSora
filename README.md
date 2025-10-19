@@ -35,6 +35,16 @@ git clone https://github.com/facebookresearch/sam2.git && cd sam2
 pip install -e .
 ```
 
+## Training
+stage 1
+```
+bash train_stage1.sh
+```
+stage 2
+```
+bash train_stage2.sh
+```
+
 
 ## Download checkpoints
 
