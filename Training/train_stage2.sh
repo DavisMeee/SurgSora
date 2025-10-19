@@ -1,7 +1,6 @@
-export CUDA_VISIBLE_DEVICES=2,3
 EXP_NAME="train_stage2"
 
-accelerate launch --main_process_port 29500 train_stage2_rgbd_traj.py \
+accelerate launch --main_process_port 29500 train_stage2.py \
  --pretrained_model_name_or_path="./Training/ckpts/stable-video-diffusion-img2vid-xt-1-1" \
  --controlnet_model_name_or_path="./Training/logs/train_stage1/checkpoint-3000/controlnet" \
  --output_dir="./logs/${EXP_NAME}/" \
