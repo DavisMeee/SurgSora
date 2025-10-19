@@ -15,6 +15,8 @@
 
 </div>     
 
+![Demo](demo/traj.mp4)
+
 ## Update
 
 · Oct/2025: 📢📢📢 Training Code Released!
