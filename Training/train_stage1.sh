@@ -2,7 +2,7 @@ export TORCH_DISTRIBUTED_DEBUG=DETAIL
 
 EXP_NAME="train_stage1"
 
-accelerate launch --main_process_port 29500 train_stage1_rgbd.py \
+accelerate launch --main_process_port 29500 train_stage1.py \
  --pretrained_model_name_or_path="./Training/ckpts/stable-video-diffusion-img2vid-xt-1-1"\
  --output_dir="logs/${EXP_NAME}/" \
  --width=256 \
